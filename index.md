@@ -66,8 +66,7 @@
 <p>wasd控制移动</p>
 
 <p>玩完了可以存档。</p>
-     </o>
-<li>
+
 <h2 id="自制系统">自制系统</h2>
 <p>sndows下载</p>
 
@@ -75,6 +74,7 @@
 
 <p>还在更新，sndows镜像只有测试版，预计9月发</p>
 
+<h2 id="wzrulsft专区">wzrulsft专区</h2>
 <p>wzrulsft专区</p>
 
 <p>系统维护，error404</p>

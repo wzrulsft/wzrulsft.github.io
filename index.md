@@ -17,7 +17,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="wzr" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"aYYSW8AepLLd的站","headline":"aYYSW8AepLLd.github.io的站","name":"aYYSW8AepLLd","url":"https://ayysw8aeplld.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"wzrulsft官方网","headline":"wzrulsft.github.io","name":"wzrulsft","url":"https://wzrulsft.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="preconnect" href="https://fonts.gstatic.com">

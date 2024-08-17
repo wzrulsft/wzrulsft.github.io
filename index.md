@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>wzrulsft的站 | wzrulsft</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="wzrulsft官方网" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="wzrulsft" />
-<meta property="og:description" content="wzrulsft官方网" />
-<link rel="canonical" href="https://wzrulsft.github.io/" />
-<meta property="og:url" content="https://wzrulsft.github.io/" />
-<meta property="og:site_name" content="wzrulsft" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="wzr" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"wzrulsft官方网","headline":"wzrulsft.github.io","name":"wzrulsft","url":"https://wzrulsft.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>

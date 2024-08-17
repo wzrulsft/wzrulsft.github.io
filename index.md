@@ -70,12 +70,9 @@
 <h1 id="df社区程序更新">DF社区程序更新</h1>
 <h2 id="sndows">sndows</h2>
 <h2 id="核桃城市">核桃城市</h2>
-<!DOCTYPE html>
 <html lang="zh-CN">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
 
 <body>
     <div class="container">

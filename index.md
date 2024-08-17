@@ -75,8 +75,7 @@
 <html lang="zh-CN">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>核桃城市mod下载</title>
-  
+    
 </head>
 
 <body>

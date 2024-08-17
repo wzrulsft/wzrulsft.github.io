@@ -60,7 +60,7 @@
 <h3 id="-wzrulsft核桃城市">
 <p>发布日期:2024/08/09 20:58 Sunday</p>
 
-<p>下载链接:<a href="https://mc.dfrobot.com.cn/thread-319785-1-1.html">请点我</a></p>
+<p>下载链接（密码：20131017）:<a href="https://mc.dfrobot.com.cn/thread-319785-1-1.html">请点我</a></p>
 
 <p>wasd控制移动</p>
 
@@ -87,7 +87,7 @@
 			<h2>mod下载</h2>
 		</li>
 		<ol><li><a href="https://wwqm.lanzouj.com/iUPDL27msgyf" target="_blank">Stoptifine 作者：aYYSW8AepLLd</a></li>
-			<li><a href="https://wwqm.lanzouj.com/ilCpI27msjbai" target="_blank">优化补丁 作者：wdylyh</a></li>
+			<li><a href="https://wwqm.lanzouj.com/ilCpI27msjba" target="_blank">优化补丁 作者：wdylyh，密码：1145.</a></li>
         </ol>
     </ol>
     <li>

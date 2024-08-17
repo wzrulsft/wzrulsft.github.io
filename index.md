@@ -71,6 +71,32 @@
 <h1 id="df社区程序更新">DF社区程序更新</h1>
 <h2 id="sndows">sndows</h2>
 <h2 id="核桃城市">核桃城市</h2>
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>核桃城市mod下载</title>
+  
+</head>
+
+<body>
+    <div class="container">
+	<h1>核桃城市mod下载站</h1>
+	<h3>整理了由mod创作者制作的mod下载资源</h3>   
+	<br>
+	<br> 
+	<ol>
+		<li>
+			<h2>mod下载</h2>
+		</li>
+		<ol><li><a href="https://wwqm.lanzouj.com/iUPDL27msgyf" target="_blank">Stoptifine 作者：aYYSW8AepLLd</a></li>
+			<li><a href="https://wwqm.lanzouj.com/ilCpI27msjbai" target="_blank">优化补丁 作者：wdylyh</a></li>
+        </ol>
+    </ol>
+    <li>
+		<h2>原版下载</h2>
+</li>
+		<ol><li>请添加qq群：965490664或者等待正式版</a></li>
 
 
 

@@ -66,6 +66,20 @@
 <p>wasd控制移动</p>
 
 <p>玩完了可以存档。</p>
+     </o>
+<li>
+<h2 id="自制系统">自制系统</h2>
+<p>sndows下载</p>
+
+<p>下载sndows时，你需要开启你的电脑</p>
+
+<p>还在更新，sndows镜像只有测试版，预计9月发</p>
+
+<p>wzrulsft专区</p>
+
+<p>系统维护，error404</p>
+
+
 
 <h1 id="df社区程序更新">DF社区程序更新</h1>
 <h2 id="sndows">sndows</h2>
@@ -87,7 +101,6 @@
 		<ol><li><a href="https://wwqm.lanzouj.com/iUPDL27msgyf" target="_blank">Stoptifine 作者：aYYSW8AepLLd</a></li>
 			<li><a href="https://wwqm.lanzouj.com/ilCpI27msjba" target="_blank">优化补丁 作者：wdylyh，密码：1145.</a></li>
         </ol>
-    </ol>
     <li>
 		<h2>原版下载</h2>
 </li>

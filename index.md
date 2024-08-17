@@ -39,7 +39,6 @@
 
 <!-- end custom head snippets -->
 
-  </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 

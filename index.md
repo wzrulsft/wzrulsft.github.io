@@ -17,7 +17,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="wzr" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"wzrulsft官方网","headline":"wzrulsft.github.io","name":"wzrulsft","url":"https://wzrulsft.github.io/"}</script>
+"headline":"wzrulsft.github.io","name":"wzrulsft","url":"https://wzrulsft.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -62,8 +62,6 @@
 
 <p>下载链接:<a href="https://mc.dfrobot.com.cn/thread-319785-1-1.html">请点我</a></p>
 
-<p>温馨提示：这个文件解压后，有一个 核桃城市 文件，就是游戏的主程序</p>
-
 <p>wasd控制移动</p>
 
 <p>玩完了可以存档。</p>
@@ -98,6 +96,8 @@
 		<ol><li>请添加qq群：965490664或者等待正式版</a></li>
 
 
+
+<p>©2024 wzrulsft版权所有 核桃城市©2024wzrulsft 版权所有</p>
 
       <footer class="site-footer">
         

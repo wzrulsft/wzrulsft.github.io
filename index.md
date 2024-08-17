@@ -6,16 +6,16 @@
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>wzrulsft的站 | wzrulsft</title>
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="aYYSW8AepLLd.github.io的站" />
+<meta property="og:title" content="wzrulsft官方网" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="aYYSW8AepLLd的站" />
-<meta property="og:description" content="aYYSW8AepLLd的站" />
-<link rel="canonical" href="https://ayysw8aeplld.github.io/" />
-<meta property="og:url" content="https://ayysw8aeplld.github.io/" />
-<meta property="og:site_name" content="aYYSW8AepLLd" />
+<meta name="description" content="wzrulsft" />
+<meta property="og:description" content="wzrulsft官方网" />
+<link rel="canonical" href="https://wzrulsft.github.io/" />
+<meta property="og:url" content="https://wzrulsft.github.io/" />
+<meta property="og:site_name" content="wzrulsft" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="aYYSW8AepLLd.github.io的站" />
+<meta property="twitter:title" content="wzr" />
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","description":"aYYSW8AepLLd的站","headline":"aYYSW8AepLLd.github.io的站","name":"aYYSW8AepLLd","url":"https://ayysw8aeplld.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
@@ -69,8 +69,8 @@
 <p>玩完了可以存档。</p>
 
 <h1 id="df社区程序更新">DF社区程序更新</h1>
-<h2 id="sndows">Win10：Next1.0</h2>
-<h2 id="核桃城市">AyOS V1.3</h2>
+<h2 id="sndows">sndows</h2>
+<h2 id="核桃城市">核桃城市</h2>
 
 
 

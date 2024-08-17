@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>aYYSW8AepLLd.github.io的站 | aYYSW8AepLLd</title>
+<title>wzrulsft的站 | wzrulsft</title>
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="aYYSW8AepLLd.github.io的站" />
 <meta property="og:locale" content="en_US" />
@@ -54,30 +54,23 @@
 
 <h1 id="下载专区">下载专区</h1>
 
-<p>下载链接整理:<a href="https://aYYSW8AepLLd.github.io/download.html">请点我</a></p>
-
-<p><a href="https://mc.dfrobot.com.cn/home.php?mod=space&amp;uid=854277&amp;do=thread&amp;view=me&amp;from=space">Ay作品集</a></p>
 <h2 id="游戏">游戏</h2>
-<p>自制的和网上找的</p>
+<p>核桃城市原创</p>
 
-<h3 id="-python版flappybird"><span> <img src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&amp;logo=Python&amp;logoColor=white" />Python版FlappyBird</span></h3>
-<p>发布日期:2023/04/09(YYYY/MM/DD) 15:58 Sunday</p>
+<h3 id="-wzrulsft核桃城市">
+<p>发布日期:2024/08/09 20:58 Sunday</p>
 
-<p><img src="https://user-images.githubusercontent.com/130227980/230760838-a70868c1-ead5-4d7e-99be-c7beee535e87.png" alt="image" />
-<img src="https://user-images.githubusercontent.com/130227980/230760896-dd8396a9-26e0-493f-a502-1fe12383843d.png" alt="image" />
-<img src="https://user-images.githubusercontent.com/130227980/230760908-5bffdf9c-8172-498b-bd8b-9abe9c12cbeb.PNG" alt="3" /></p>
+<p>下载链接:<a href="https://mc.dfrobot.com.cn/thread-319785-1-1.html">请点我</a></p>
 
-<p>下载链接:<a href="">请点我</a></p>
+<p>温馨提示：这个文件解压后，有一个 核桃城市 文件，就是游戏的主程序</p>
 
-<p>温馨提示：这个文件解压后，有一个 FlappyBird.py 文件，就是游戏的主程序，运行需要安装Python和Pygame，安装Python后，按Win+R，调出运行框，在运行框里面输入cmd，在cmd中输入“pip install pygame”，如果这一步失败，自行百度。</p>
+<p>wasd控制移动</p>
 
-<p>按下空格键让鸟儿飞翔</p>
-
-<p>游戏结束后，按空格键重新开始。</p>
+<p>玩完了可以存档。</p>
 
 <h1 id="df社区程序更新">DF社区程序更新</h1>
-<h2 id="win10next10">Win10：Next1.0</h2>
-<h2 id="ayos-v13">AyOS V1.3</h2>
+<h2 id="sndows">Win10：Next1.0</h2>
+<h2 id="核桃城市">AyOS V1.3</h2>
 
 
 

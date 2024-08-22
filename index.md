@@ -52,35 +52,25 @@
     <main id="content" class="main-content" role="main">
 <div class="row">
   <div class="side">
-<h2 id="wzrulsft官方">wzrulsft官方</h2>
-
-<h1 id="下载专区">下载专区</h1>
-
-<h2 id="游戏">游戏</h2>
-<p>核桃城市原创</p>
-
-<h3 id="-wzrulsft核桃城市">
-<p>发布日期:2024/08/09 20:58 Sunday</p>
-
-<p>下载链接（密码：20131017）:<a href="https://mc.dfrobot.com.cn/thread-319785-1-1.html">请点我</a></p>
-
-<p>wasd控制移动</p>
-
-<p>玩完了可以存档。</p>
-
-<h2 id="自制系统">自制系统</h2>
-<p>sndows下载</p>
-
-<p>下载sndows时，你需要开启你的电脑</p>
-
-<p>还在更新，sndows镜像只有测试版，预计9月发</p>
-
-<h2 id="wzrulsft专区">wzrulsft专区</h2>
-<p>wzrulsft专区</p>
-
-<p>系统维护，error404</p>
-
-
+      <h2 id="wzrulsft官方">wzrulsft官方</h2>
+      <h1 id="下载专区">下载专区</h1>
+      <h2 id="游戏">游戏</h2>
+      <p>核桃城市原创</p>
+      <h3 id="-wzrulsft核桃城市">
+      <p>发布日期:2024/08/09 20:58 Sunday</p>
+      <p>下载链接（密码：20131017）:<a href="https://mc.dfrobot.com.cn/thread-319785-1-1.html">请点我</a></p>
+      <p>wasd控制移动</p>
+      <p>玩完了可以存档。</p>
+</div>
+<div class="main">
+      <h2 id="自制系统">自制系统</h2>
+      <p>sndows下载</p>
+      <p>下载sndows时，你需要开启你的电脑</p>
+      <p>还在更新，sndows镜像只有测试版，预计9月发</p>
+      <h2 id="wzrulsft专区">wzrulsft专区</h2>
+      <p>wzrulsft专区</p>
+      <p>系统维护，error404</p>
+</div>
 
 <h1 id="df社区程序更新">DF社区程序更新</h1>
 <h2 id="sndows">sndows</h2>

@@ -50,7 +50,8 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-<div class="row">      
+<div class="row">
+  <div class="side">
 <h2 id="wzrulsft官方">wzrulsft官方</h2>
 
 <h1 id="下载专区">下载专区</h1>

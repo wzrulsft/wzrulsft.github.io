@@ -68,9 +68,7 @@
       <p>下载sndows时，你需要开启你的电脑</p>
       <p>还在更新，sndows镜像只有测试版，预计9月发</p>
       <h2 id="wzrulsft专区">wzrulsft专区</h2>
-      <p>wzrulsft专区</p>
       <p>系统维护，error404</p>
-</div>
 
 <h1 id="df社区程序更新">DF社区程序更新</h1>
 <h2 id="sndows">sndows</h2>

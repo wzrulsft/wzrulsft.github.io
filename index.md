@@ -61,7 +61,6 @@
       <p>下载链接（密码：20131017）:<a href="https://mc.dfrobot.com.cn/thread-319785-1-1.html">请点我</a></p>
       <p>wasd控制移动</p>
       <p>玩完了可以存档。</p>
-</div>
 <div class="main">
       <h2 id="自制系统">自制系统</h2>
       <p>sndows下载</p>

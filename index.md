@@ -56,7 +56,7 @@
       <p>核桃城市原创</p>
       <h3 id="-wzrulsft核桃城市">
       <p>发布日期:2024/08/09 20:58 Sunday</p>
-      <p>下载链接（密码：20131017）:<a href="https://mc.dfrobot.com.cn/thread-319785-1-1.html">请点我</a></p>
+      <p>下载链接（密码：20131017）:<a href="https://www.ccw.site/detail/66d5cec9ed00d37072f64563?inviteCode=MWEOLA6LPNnsqdQY">请点我</a></p>
       <p>wasd控制移动</p>
       <p>玩完了可以存档。</p>
 <div class="main">

@@ -1,8 +1,10 @@
-
-<html lang="en-US">
-    <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
+<!doctype html>
+    <html lang="zh" dir="ltr" data-platform="">
+      <head>
+          <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+          <meta charset="utf-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          
 <title>wzrulsft的站 | wzrulsft</title>
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="wzrulsft官方网" />
@@ -97,3 +99,19 @@
 
 
 <p>©2024 wzrulsft版权所有 核桃城市©2024wzrulsft 版权所有</p>
+
+
+<div id="uhfCookieAlert" data-locale="zh-cn">
+    <div id="msccBannerV2"></div>
+</div>
+
+                            
+                        </div>
+
+
+
+
+
+
+
+

@@ -1,3 +1,24 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="stylesheet" href="/umi.49664eb9.css">
+<script src="https://gw.alipayobjects.com/os/lib/react/18.2.0/umd/react.production.min.js"></script>
+<script src="https://gw.alipayobjects.com/os/lib/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+<script src="/framework.e7d82533.js"></script>
+<title>Watt Toolkit</title><meta name="description" content="「Watt Toolkit」是一个包含多种Steam工具功能的工具箱。"><meta name="keywords" content="Watt Toolkit, WattToolkit, Steam++, SteamPP, SteamPlusPlus, SteamTools,加速器,游戏加速器,游戏商城,商城"><style type="text/css">.transparent{background-color:transparent !important;}.pageLoading{color:black;font-size:5rem;letter-spacing:-4px;position:relative;color:transparent;background-image:linear-gradient(to right,black,black,transparent);background-size:200% 100%;background-repeat:no-repeat;-webkit-background-clip:text;background-position-x:200%;animation:1s fillup ease-in-out 2s forwards;}.pageLoading::after{content:"Watt Toolkit";position:absolute;left:0;top:0;-webkit-text-stroke:2px;-webkit-text-stroke-color:black;-webkit-text-fill-color:transparent;opacity:0;animation:fadeIn 1s ease-out 3s forwards;}@media(prefers-color-scheme:dark){body{background-color:#141414;color:#fff;}.pageLoading{color:white;color:transparent;background-image:linear-gradient(to right,white,white,transparent);}.pageLoading::after{-webkit-text-stroke-color:white !important;}}@keyframes fillup{from{background-position-x:200%;}to{background-position-x:0%;}}@keyframes fadeIn{0%{opacity:0;}100%{opacity:1;}}</style><link rel="icon" href="/favicon.ico" type="image/x-icon"></head>
+<body>
+<div id="app"><noscript><div class="noscript-container" style="font-size: 32px;">需要开启 JavaScript 才能浏览本站点。</div> </noscript><div style="display: flex;padding-top: 300px;justify-content: center;"><span class="pageLoading">Watt Toolkit</span></div></div>
+<script src="/umi.2ddaa4df.js"></script>
+</body>
+</html>
+
+
+
+
+
 <!doctype html>
     <html lang="zh" dir="ltr" data-platform="">
       <head>

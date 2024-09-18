@@ -1,9 +1,7 @@
 
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
-<meta name="keywords" content=""><style type="text/css">.transparent{background-color:transparent !important;}.pageLoading{color:black;font-size:5rem;letter-spacing:-4px;position:relative;color:transparent;background-image:linear-gradient(to right,black,black,transparent);background-size:200% 100%;background-repeat:no-repeat;-webkit-background-clip:text;background-position-x:200%;animation:1s fillup ease-in-out 2s forwards;}.pageLoading::after{content:"";position:absolute;left:0;top:0;-webkit-text-stroke:2px;-webkit-text-stroke-color:black;-webkit-text-fill-color:transparent;opacity:0;animation:fadeIn 1s ease-out 3s forwards;}@media(prefers-color-scheme:dark){body{background-color:#141414;color:#fff;}.pageLoading{color:white;color:transparent;background-image:linear-gradient(to right,white,whte,transparent);}.pageLoading::after{-webkit-text-stroke-color:white !important;}}@keyframes fillup{from{background-position-x:200%;}to{background-position-x:0%;}}@keyframes fadeIn{0%{opacity:0;}100%{opacity:1;}}</style>
+
  </head>
 <body>
 <div id="app"><noscript><div class="noscript-container" style="font-size: 32px;">需要开启 JavaScript 才能浏览本站点。</div> </noscript><div style="display: flex;padding-top: 300px;justify-content: center;"><span class="pageLoading">wzrulsft</span></div></div>
@@ -90,7 +88,7 @@
     <li>
 		<h2>原版下载</h2>
 </li>
-		<ol><li>请添加qq群：965490664或者等待正式版</a></li>
+		<ol><li>请添加qq群：965490664或者等待正式版</li>
 
 
 
@@ -100,9 +98,6 @@
 <div id="uhfCookieAlert" data-locale="zh-cn">
     <div id="msccBannerV2"></div>
 </div>
-
-                            
-                        </div>
 
 
 
